@@ -1,0 +1,6 @@
+Respuestas:
+
+B — Un servidor ejecuta aplicaciones y responde solicitudes de los usuarios.
+B — Escuchar en un puerto significa esperar solicitudes en una dirección específica.
+B — Monitorear la ejecución y registrar errores es clave para la estabilidad.
+A — Los logs son archivos que registran la actividad y eventos del sistema.
